@@ -16,6 +16,7 @@
 ## Project Description
 I analysed the coffee ratings from 32 countries based on certain coffee metrics used for professional evaluation.
 The project goal is to conclude which is the best rated coffee.
+In addition I have created a coffee Recommerder which recommends a coffee based on the user taste.
 
 ## Questions & Hypotheses
 I have formulated two hypotheses:
@@ -29,7 +30,8 @@ I gathered data from the Coffee Quality Institute.
 - Gather data
 - Data Cleaning
 - Visualization
-- Conclusions
+- Hypothesis Testing
+- Coffee Recommender
 - Technical Report
 
 ## Organization
